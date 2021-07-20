@@ -1,6 +1,6 @@
 # PipesApp
 
-![alt text](https://github.com/alesyt0h/angular-pipesApp/blob/main/1. Pipes Basicos.jpg?raw=true)
+![alt text](https://github.com/alesyt0h/angular-pipesApp/blob/main/1.%20Pipes%20Basicos.jpg?raw=true)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
