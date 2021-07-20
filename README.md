@@ -1,6 +1,9 @@
 # PipesApp
 
 ![alt text](https://github.com/alesyt0h/angular-pipesApp/blob/main/1.%20Pipes%20Basicos.jpg?raw=true)
+![alt text](https://github.com/alesyt0h/angular-pipesApp/blob/main/2.%20DecimalPipe%20y%20Porcentaje.jpg?raw=true)
+![alt text](https://github.com/alesyt0h/angular-pipesApp/blob/main/3.%20i18n%20Slice%20Jason%20KeyValue%20Async%20Pipes.jpg?raw=true)
+![alt text](https://github.com/alesyt0h/angular-pipesApp/blob/main/4.%20Pipes%20Personalizados.jpg?raw=true)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
